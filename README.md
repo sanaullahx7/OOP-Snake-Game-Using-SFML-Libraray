@@ -1,7 +1,8 @@
 # OOP-Snake-Game-Using-SFML-Libraray
 Snake Game in C++ using SFML Library
 
-This project is a Snake Game built using C++ and the [SFML](https://www.sfml-dev.org/) (Simple and Fast Multimedia Library). It was developed as an Object-Oriented Programming (OOP) course project and demonstrates key OOP concepts like encapsulation, inheritance, and modular programming.
+This project is a Snake Game built using C++ and the [SFML](https://www.sfml-dev.org/) (Simple and Fast Multimedia Library). 
+It was developed as an Object-Oriented Programming (OOP) course project and demonstrates key OOP concepts like encapsulation, inheritance, and modular programming.
 
 ## 🎮 Features
 
