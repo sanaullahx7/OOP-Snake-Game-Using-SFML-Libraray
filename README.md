@@ -32,5 +32,3 @@ It was developed as an Object-Oriented Programming (OOP) course project and demo
 ## 🛠️ Requirements
 - C++17 or later
 - SFML Library (Graphics, Audio, Window, System modules)
-
-
