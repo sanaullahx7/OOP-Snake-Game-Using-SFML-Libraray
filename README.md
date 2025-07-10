@@ -15,7 +15,6 @@ It was developed as an Object-Oriented Programming (OOP) course project and demo
 - Smooth gameplay experience using SFML
 
 
-  
 
 
 ## 📁 Project Structure
